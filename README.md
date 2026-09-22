@@ -2,9 +2,9 @@
 
 People call me Uz. Nice to meet you!
 
-I'm have working experience in QA, testing, coding, photography, hospitality and more...
-
-Currently on the hunt for a remote position.
+I started programming when I was around 12 years old on a quite slow Intel 486 computer. I taught myself some VB by trial and error experiments. That taught me patience too I guess.
+My first job as a developer came by the time I finished high school, working during Y2K. I also ended up working for IBM as a QA, being hired even before finishing uni.
+I am currently networking with Indie game devs, helping them with QA and translations, and on the hunt for a remote job.
 
 I speak Spanish (native) and English. Slowly learning Italian and trying not to forget the little French I learnt 😅
 
