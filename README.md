@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hola! 👋
+
+People call me Uz. Nice to meet you!
+
+I'm have working experience in QA, testing, coding, photography, hospitality and more...
+
+Currently on the hunt for a remote position.
+
+I speak Spanish (native) and English. Slowly learning Italian and trying not to forget the little French I learnt 😅
+
 
 <!--
 **uzbeer/uzbeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
